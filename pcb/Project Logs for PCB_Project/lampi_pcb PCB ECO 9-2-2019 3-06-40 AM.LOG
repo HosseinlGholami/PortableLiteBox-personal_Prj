@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V Pin=J5-1
+Removed Pin From Net: NetName=SWCLK Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=SWDIO Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=SWDIO Pin=J5-2
+Added Pin To Net: NetName=SWCLK Pin=J5-3
+Added Pin To Net: NetName=3V Pin=J5-4
+Added Member To Class: ClassName=lampi_power Member=Component L1 33UH
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

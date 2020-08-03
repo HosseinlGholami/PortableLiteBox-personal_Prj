@@ -1,0 +1,11 @@
+Added Component: Designator=uUSB(MICRO_USB_DIP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=USB Pin=uUSB-1
+Added Pin To Net: NetName=GND Pin=uUSB-5
+Added Pin To Net: NetName=GND Pin=uUSB-6
+Added Pin To Net: NetName=GND Pin=uUSB-7
+Added Pin To Net: NetName=GND Pin=uUSB-8
+Added Pin To Net: NetName=GND Pin=uUSB-9
+Added Member To Class: ClassName=Lampi Member=Component uUSB micro usb dip
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

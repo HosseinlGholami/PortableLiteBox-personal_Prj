@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R3 Old Footprint=0603R New Footprint=0805L
+Change Component Footprint: Designator=R4 Old Footprint=0603R New Footprint=0805L
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

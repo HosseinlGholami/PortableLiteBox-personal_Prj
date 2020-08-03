@@ -1,0 +1,16 @@
+Added Component: Designator=L1(SRR1260-150M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70277066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/bourns-srr1260-330m/70277066/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/SRR1260.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SRR1260-330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-SRR1260-330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-SRR1260-330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6934619P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6934619P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5USB Pin=L1-1
+Added Pin To Net: NetName=NetD3_1 Pin=L1-2
+Added Member To Class: ClassName=lampi_power Member=Component L1 33UH
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

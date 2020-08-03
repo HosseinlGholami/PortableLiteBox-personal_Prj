@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3V Pin=CON1-1
+Removed Pin From Net: NetName=SWCLK Pin=CON1-2
+Removed Pin From Net: NetName=GND Pin=CON1-3
+Removed Pin From Net: NetName=SWDIO Pin=CON1-4
+Removed Pin From Net: NetName=NRST Pin=CON1-5
+Removed Member From Class: ClassName=Lampi Member=CON1
+Added Component: Designator=J5(HEADER_4_JMP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V Pin=J5-1
+Added Pin To Net: NetName=SWCLK Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=SWDIO Pin=J5-4
+Added Member To Class: ClassName=Lampi Member=Component J5 
+Added Member To Class: ClassName=Lampi Member=Component  RYS1838T
+Added Member To Class: ClassName=Lampi Member=Component U1 STM32F030F4P6
+Added Member To Class: ClassName=Lampi Member=Component uUSB micro usb dip
+Added Member To Class: ClassName=Lampi Member=Component XM1 8MHz
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

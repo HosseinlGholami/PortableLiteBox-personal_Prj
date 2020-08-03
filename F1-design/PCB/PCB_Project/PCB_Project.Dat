@@ -1,0 +1,20 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Dell\Desktop\Lampi\PCB\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~28|ReportField=ReportTime~3:02:40 AM|ReportField=ReportDate~3/27/2019|ReportField=ReportDateTime~3/27/2019 3:02:40 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Dell\Desktop\Lampi\PCB\PCB_Project\PCB_Project.PrjPcb
+RYS1838T||*1|RYS1838T|RYS1838T|1
+330nF|Capacitor|C1|1206C|Cap|1
+10nF|Capacitor|C2|1206C|Cap|1
+100nF|Capacitor|C3, C4, C5, C10, C11|1206C|Cap|5
+2.2uF|Capacitor|C6, C7|0805C|Cap|2
+20pF|Capacitor|C8, C9|1206C|Cap|2
+4.7uF|Capacitor, Tantalum,|C12|SIZE_A|Cap-Tantal|1
+1N5822||D|430X270D|1N5819|1
+AO3416|P-Channel MESFET|M1|SOT23_3|MESFET-P|1
+Header 3|Header, 3-Pin|P1, P2|HDR1X3|Header 3|2
+programmer header|Header, 4-Pin|pr|HEADER_4_JMP|Header 4|1
+switch_mini||push_but, uC_Rst|switch_mini_smd|switch_mini|2
+Header2|Header, 2-Pin|PWR|COMM HEADER 2|Header 2|1
+100k||R1, R2|0805L|R|2
+100R||R22|0805L|R|1
+78L05|Voltage Regulator|Rg|SOT-89|78LXX|1
+Relay-DPDT|Dual-Pole Dual-Throw Relay|RL|RELAY-DPDT-1|Relay-DPDT|1
+STM8S003F3||u|TSSOP20_L|Component_1|1
+8MHz||XM1|XTLT_2|XTAL|1

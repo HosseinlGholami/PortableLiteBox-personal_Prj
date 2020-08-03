@@ -1,0 +1,15 @@
+Added Component: Designator=Rg(SOT-89)
+Added Component: Designator=RL(RELAY-DPDT-1)
+Added Pin To Net: NetName=V5 Pin=Rg-1
+Added Pin To Net: NetName=GND Pin=Rg-2
+Added Pin To Net: NetName=GND Pin=Rg-2
+Added Pin To Net: NetName=VIN1 Pin=Rg-3
+Added Pin To Net: NetName=VIN Pin=RL-1
+Added Pin To Net: NetName=LED_OUT Pin=RL-2
+Added Pin To Net: NetName=VIN Pin=RL-4
+Added Pin To Net: NetName=LED_OUT Pin=RL-5
+Added Pin To Net: NetName=NetM1_3 Pin=RL-7
+Added Pin To Net: NetName=VIN1 Pin=RL-8
+Added Member To Class: ClassName=Sheet1 Member=Component Rg 78L05
+Added Member To Class: ClassName=Sheet1 Member=Component RL Relay-DPDT
+Added Room: Name=Sheet1

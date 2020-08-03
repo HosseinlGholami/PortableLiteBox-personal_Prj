@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=IR_R Pin= -12
+Change Component Footprint: Designator=  Old Footprint=UWT(8X10) New Footprint=CAP_ELEC_SIZE_E
+Change Component Footprint: Designator=  Old Footprint=UWT(8X10) New Footprint=CAP_ELEC_SIZE_E
+Change Component Designator: OldDesignator=    NewDesignator=C2
+Change Component Designator: OldDesignator=   NewDesignator=C3
+Change Component Designator: OldDesignator=  NewDesignator=C4
+Change Component Designator: OldDesignator=  NewDesignator=C5
+Change Component Designator: OldDesignator=  NewDesignator=C8
+Change Component Designator: OldDesignator=  NewDesignator=C9
+Change Component Designator: OldDesignator=  NewDesignator=C10
+Change Component Designator: OldDesignator=  NewDesignator=C11
+Change Component Designator: OldDesignator=  NewDesignator=C12
+Change Component Designator: OldDesignator=  NewDesignator=D3
+Change Component Designator: OldDesignator=  NewDesignator=IC1
+Change Component Designator: OldDesignator=  NewDesignator=IC?
+Change Component Designator: OldDesignator=  NewDesignator=J1
+Change Component Designator: OldDesignator=  NewDesignator=J5
+Change Component Designator: OldDesignator=  NewDesignator=JP1
+Change Component Designator: OldDesignator=  NewDesignator=L1
+Change Component Designator: OldDesignator=  NewDesignator=PT1
+Change Component Designator: OldDesignator=  NewDesignator=Q1
+Change Component Designator: OldDesignator=  NewDesignator=R 1k
+Change Component Designator: OldDesignator=  NewDesignator=R2
+Change Component Designator: OldDesignator=   NewDesignator=R3
+Change Component Designator: OldDesignator=  NewDesignator=R7
+Change Component Designator: OldDesignator=  NewDesignator=R8
+Change Component Designator: OldDesignator=  NewDesignator=U1
+Change Component Designator: OldDesignator=  NewDesignator=uUSB
+Change Component Designator: OldDesignator=  NewDesignator=XM1
+Added Component: Designator=L?(PA4320473NLT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://productfinder.pulseeng.com/products/datasheets/P787.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Pulse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PA4320.473NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "673-PA4320.473NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=673-PA4320.473NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V Pin=U1-5
+Added Member To Class: ClassName=Lampi Member=Component C2 100nF
+Added Member To Class: ClassName=Lampi Member=Component C3 20pF
+Added Member To Class: ClassName=Lampi Member=Component C4 10uF
+Added Member To Class: ClassName=Lampi Member=Component C5 20pF
+Added Member To Class: ClassName=Lampi Member=Component C8 100nF
+Added Member To Class: ClassName=Lampi Member=Component C9 100nf
+Added Member To Class: ClassName=Lampi Member=Component C10 10uf
+Added Member To Class: ClassName=lampi_power Member=Component C11 C 220uF
+Added Member To Class: ClassName=lampi_power Member=Component C12 100uF
+Added Member To Class: ClassName=lampi_power Member=Component D3 1N5819
+Added Member To Class: ClassName=Lampi Member=Component IC1 ams1117-3.3v
+Added Member To Class: ClassName=lampi_power Member=Component IC? XL6009
+Added Member To Class: ClassName=lampi_power Member=Component J1 Terminal
+Added Member To Class: ClassName=Lampi Member=Component J5 
+Added Member To Class: ClassName=Lampi Member=Component JP1 Header 2
+Added Member To Class: ClassName=lampi_power Member=Component L1 33UH
+Added Member To Class: ClassName=lampi_power Member=Component L? PA4320.473NLT
+Added Member To Class: ClassName=lampi_power Member=Component PT1 POT3
+Added Member To Class: ClassName=lampi_power Member=Component Q1 IRF7317PBF
+Added Member To Class: ClassName=lampi_power Member=Component R 1k *
+Added Member To Class: ClassName=Lampi Member=Component R2 10k
+Added Member To Class: ClassName=Lampi Member=Component R3 100
+Added Member To Class: ClassName=Lampi Member=Component R7 100R
+Added Member To Class: ClassName=Lampi Member=Component R8 22K OPTIONAL
+Added Member To Class: ClassName=Lampi Member=Component  RYS1838T
+Added Member To Class: ClassName=Lampi Member=Component U1 STM32F030F4P6
+Added Member To Class: ClassName=Lampi Member=Component uUSB micro usb dip
+Added Member To Class: ClassName=Lampi Member=Component XM1 8MHz
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

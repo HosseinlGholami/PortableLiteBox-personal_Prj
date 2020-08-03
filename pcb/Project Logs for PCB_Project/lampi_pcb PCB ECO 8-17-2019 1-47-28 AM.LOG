@@ -1,0 +1,8 @@
+Added Component: Designator=CON1(HEADER1*5 - straight)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V Pin=CON1-1
+Added Pin To Net: NetName=SWCLK Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=CON1-3
+Added Pin To Net: NetName=SWDIO Pin=CON1-4
+Added Pin To Net: NetName=NRST Pin=CON1-5
+Added Member To Class: ClassName=Lampi Member=Component CON1 ST_LINK

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LEARN_led Pin=U1-7
+Change Component Designator: OldDesignator=  NewDesignator=header 1
+Added Pin To Net: NetName=LEARN_led Pin=U1-13
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

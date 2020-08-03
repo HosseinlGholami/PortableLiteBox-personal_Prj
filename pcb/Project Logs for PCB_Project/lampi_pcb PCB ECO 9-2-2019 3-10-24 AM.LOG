@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LEARN Pin=U1-10
+Added Pin To Net: NetName=LEARN Pin=U1-18
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

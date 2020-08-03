@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED_Driver Pin=U1-11
+Added Pin To Net: NetName=LED_Driver Pin=U1-17
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

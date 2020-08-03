@@ -1,0 +1,12 @@
+Added Component: Designator=R5(0805L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=R5-1
+Added Pin To Net: NetName=3V Pin=R5-2
+Added Pin To Net: NetName=NetD2_A Pin=R6-1
+Added Pin To Net: NetName=LEARN_led Pin=R6-2
+Added Member To Class: ClassName=Lampi Member=Component R5 100
+Added Member To Class: ClassName=Lampi Member=Component R6 100

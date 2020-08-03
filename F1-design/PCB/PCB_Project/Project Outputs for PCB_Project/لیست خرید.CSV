@@ -1,0 +1,6 @@
+Comment,Pattern,Quantity,Components,
+,,,,
+10nF,1206C,1,C2,Capacitor
+330nF,1206C,1,C1,Capacitor
+4.7uF,SIZE_A,1,C12,"Capacitor, Tantalum,"
+switch_mini,switch_mini_smd,2,"push_but, uC_Rst",

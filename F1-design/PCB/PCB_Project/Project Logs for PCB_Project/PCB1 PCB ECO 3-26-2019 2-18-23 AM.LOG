@@ -1,0 +1,6 @@
+Added Component: Designator=M1(SOT23_3)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=RL_PIN Pin=M1-2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Member To Class: ClassName=Sheet1 Member=Component M1 AO3416
+Added Room: Name=Sheet1

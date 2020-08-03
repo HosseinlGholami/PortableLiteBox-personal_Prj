@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3V Pin=C2-2
+Removed Member From Class: ClassName=Lampi Member=C2
+Added Member To Class: ClassName=lampi_power Member=Component IC? XL6009
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

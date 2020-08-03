@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=5USB Pin= -1
+Removed Pin From Net: NetName=GND Pin= -2
+Change Component Designator: OldDesignator=  NewDesignator=C1
+Change Component Designator: OldDesignator=  NewDesignator=C2
+Change Component Designator: OldDesignator=  NewDesignator=C3
+Change Component Designator: OldDesignator=  NewDesignator=C4
+Change Component Designator: OldDesignator=  NewDesignator=C5
+Change Component Designator: OldDesignator=  NewDesignator=C6
+Change Component Designator: OldDesignator=  NewDesignator=C7
+Change Component Designator: OldDesignator=  NewDesignator=C8
+Change Component Designator: OldDesignator=  NewDesignator=C9
+Change Component Designator: OldDesignator=  NewDesignator=C10
+Change Component Designator: OldDesignator=  NewDesignator=C11
+Change Component Designator: OldDesignator=  NewDesignator=C12
+Change Component Designator: OldDesignator=  NewDesignator=CON1
+Change Component Designator: OldDesignator=  NewDesignator=D1
+Change Component Designator: OldDesignator=  NewDesignator=D2
+Change Component Designator: OldDesignator=  NewDesignator=D3
+Change Component Designator: OldDesignator=  NewDesignator=header 1
+Change Component Designator: OldDesignator=  NewDesignator=IC1
+Change Component Designator: OldDesignator=  NewDesignator=IC2
+Change Component Designator: OldDesignator=  NewDesignator=J1
+Change Component Designator: OldDesignator=  NewDesignator=JP1
+Change Component Designator: OldDesignator=  NewDesignator=PT1
+Change Component Designator: OldDesignator=  NewDesignator=Q1
+Change Component Designator: OldDesignator=  NewDesignator=R1
+Change Component Designator: OldDesignator=  NewDesignator=R 1k
+Change Component Designator: OldDesignator=  NewDesignator=R2
+Change Component Designator: OldDesignator=  NewDesignator=R3
+Change Component Designator: OldDesignator=  NewDesignator=R4
+Change Component Designator: OldDesignator=  NewDesignator=R5
+Change Component Designator: OldDesignator=  NewDesignator=R6
+Change Component Designator: OldDesignator=  NewDesignator=R7
+Change Component Designator: OldDesignator=  NewDesignator=R8
+Change Component Designator: OldDesignator=  NewDesignator=SM1
+Change Component Designator: OldDesignator=  NewDesignator=SM2
+Change Component Designator: OldDesignator=  NewDesignator=U1
+Change Component Designator: OldDesignator=  NewDesignator=uUSB
+Change Component Designator: OldDesignator=  NewDesignator=XM1
+Added Member To Class: ClassName=Lampi Member=Component C1 100nF
+Added Member To Class: ClassName=Lampi Member=Component C2 100nF
+Added Member To Class: ClassName=Lampi Member=Component C3 20pF
+Added Member To Class: ClassName=Lampi Member=Component C4 10uF
+Added Member To Class: ClassName=Lampi Member=Component C5 20pF
+Added Member To Class: ClassName=Lampi Member=Component C6 100nF
+Added Member To Class: ClassName=Lampi Member=Component C7 100nF
+Added Member To Class: ClassName=Lampi Member=Component C8 100nF
+Added Member To Class: ClassName=Lampi Member=Component C9 100nf
+Added Member To Class: ClassName=Lampi Member=Component C10 10uf
+Added Member To Class: ClassName=lampi_power Member=Component C11 C 220uF
+Added Member To Class: ClassName=lampi_power Member=Component C12 100uF
+Added Member To Class: ClassName=Lampi Member=Component CON1 ST_LINK
+Added Member To Class: ClassName=Lampi Member=Component D1 LED
+Added Member To Class: ClassName=Lampi Member=Component D2 LED
+Added Member To Class: ClassName=lampi_power Member=Component D3 1N5819
+Added Member To Class: ClassName=Lampi Member=Component header 1 HDR_BUSEL
+Added Member To Class: ClassName=Lampi Member=Component IC1 ams1117-3.3v
+Added Member To Class: ClassName=lampi_power Member=Component IC2 XL6009
+Added Member To Class: ClassName=lampi_power Member=Component J1 Terminal
+Added Member To Class: ClassName=Lampi Member=Component JP1 Header 2
+Added Member To Class: ClassName=lampi_power Member=Component PT1 POT3
+Added Member To Class: ClassName=lampi_power Member=Component Q1 IRF7317PBF
+Added Member To Class: ClassName=lampi_power Member=Component R 1k *
+Added Member To Class: ClassName=Lampi Member=Component R1 10k
+Added Member To Class: ClassName=Lampi Member=Component R2 10k
+Added Member To Class: ClassName=Lampi Member=Component R3 100
+Added Member To Class: ClassName=Lampi Member=Component R4 0
+Added Member To Class: ClassName=Lampi Member=Component R5 100
+Added Member To Class: ClassName=Lampi Member=Component R6 100
+Added Member To Class: ClassName=Lampi Member=Component R7 100R
+Added Member To Class: ClassName=Lampi Member=Component R8 22K OPTIONAL
+Added Member To Class: ClassName=Lampi Member=Component SM1 PUSHBUTTON
+Added Member To Class: ClassName=Lampi Member=Component SM2 PUSHBUTTON
+Added Member To Class: ClassName=Lampi Member=Component  RYS1838T
+Added Member To Class: ClassName=Lampi Member=Component U1 STM32F030F4P6
+Added Member To Class: ClassName=Lampi Member=Component uUSB micro usb dip
+Added Member To Class: ClassName=Lampi Member=Component XM1 8MHz
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

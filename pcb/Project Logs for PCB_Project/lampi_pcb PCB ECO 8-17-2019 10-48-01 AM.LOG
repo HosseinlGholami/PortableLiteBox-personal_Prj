@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LED_Driver Pin=U1-10
+Removed Member From Class: ClassName=Lampi Member=L1
+Change Component Designator: OldDesignator=  NewDesignator=header 1
+Added Pin To Net: NetName=LED_Driver Pin=U1-11
+Added Member To Class: ClassName=Lampi Member=Component  RYS1838T
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

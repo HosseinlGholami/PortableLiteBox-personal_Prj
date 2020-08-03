@@ -1,0 +1,5 @@
+Added Component: Designator=P1(HDR1X3)
+Added Pin To Net: NetName=LED_OUT Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 3
+Added Room: Name=Sheet1

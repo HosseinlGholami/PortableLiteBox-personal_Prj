@@ -1,0 +1,13 @@
+Added Component: Designator=IC?(KTT0005B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/2060343.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2577T-12/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2577T-12/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM2577T-12%2FNOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5338114P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5338114P"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Lampi Member=Component IC? LM2577T-12_NOPB
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

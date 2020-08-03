@@ -1,0 +1,24 @@
+Added Component: Designator=Q1(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70018231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/infineon-irf7317pbf/70018231/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.infineon.com/dgdl/irf7317pbf.pdf?fileId=5546d462533600a4015355f5b8de1b3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRF7317PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRF7317PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=942-IRF7317PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5410317P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5410317P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_1 Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=LED_Driver Pin=Q1-2
+Added Pin To Net: NetName=5USB Pin=Q1-3
+Added Pin To Net: NetName=LED_Driver Pin=Q1-4
+Added Pin To Net: NetName=EN Pin=Q1-5
+Added Pin To Net: NetName=EN Pin=Q1-6
+Added Pin To Net: NetName=EN Pin=Q1-7
+Added Pin To Net: NetName=EN Pin=Q1-8
+Added Member To Class: ClassName=lampi_power Member=Component Q1 IRF7317PBF
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

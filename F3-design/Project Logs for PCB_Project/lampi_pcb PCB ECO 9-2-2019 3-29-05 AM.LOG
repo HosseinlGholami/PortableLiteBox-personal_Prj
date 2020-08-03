@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Change Component Designator: OldDesignator=  NewDesignator=C8
+Change Component Designator: OldDesignator=  NewDesignator=D1
+Change Component Designator: OldDesignator=  NewDesignator=D2
+Change Component Designator: OldDesignator=  NewDesignator=header 1
+Change Component Designator: OldDesignator=  NewDesignator=R6
+Change Component Designator: OldDesignator=  NewDesignator=R8
+Change Component Designator: OldDesignator=  NewDesignator=U1
+Added Pin To Net: NetName=3V Pin=C8-2
+Added Pin To Net: NetName=3V Pin=R4-1
+Added Pin To Net: NetName=3V Pin=U1-16
+Added Member To Class: ClassName=Lampi Member=Component D1 LED
+Added Member To Class: ClassName=Lampi Member=Component D2 LED
+Added Member To Class: ClassName=Lampi Member=Component header 1 HDR_BUSEL
+Added Member To Class: ClassName=Lampi Member=Component R6 100
+Added Member To Class: ClassName=Lampi Member=Component R8 22K OPTIONAL
+Added Member To Class: ClassName=Lampi Member=Component U1 STM32F030F4P6
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3V Pin=J5-4
+Change Component Footprint: Designator=J5 Old Footprint=HEADER_4_JMP New Footprint=HDR_1x3
+Change Component Comment : Designator=J5 Old Comment= New Comment=HDR_BUSEL
+Change component parameters: Designator = "J5"; Footprint = "HDR_1x3"; UniqueID = "\QTBACAWX"
+Change component parameters. Clean all parameters for all variants
+Added Member To Class: ClassName=lampi_power Member=Component IC? XL6009
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

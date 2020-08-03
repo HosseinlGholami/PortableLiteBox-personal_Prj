@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=  NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=L1
+Added Pin To Net: NetName=3V Pin=R1-2
+Added Pin To Net: NetName=3V Pin=R2-2
+Added Room: Name=Lampi
+Added Room: Name=lampi_power

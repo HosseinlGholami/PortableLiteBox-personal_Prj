@@ -1,0 +1,24 @@
+Bill of Material for 
+On 3/27/2019 at 2:42:07 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100k                0805L            2    R1, R2                                            
+ 100nF               1206C            5    C3, C4, C5, C10, C11         Capacitor            
+ 100R                0805L            1    R22                                               
+ 10nF                1206C            1    C2                           Capacitor            
+ 1N5822              430X270D         1    D                                                 
+ 2.2uF               0805C            2    C6, C7                       Capacitor            
+ 20pF                1206C            2    C8, C9                       Capacitor            
+ 330nF               1206C            1    C1                           Capacitor            
+ 4.7uF               SIZE_A           1    C12                          Capacitor, Tantalum, 
+ 78L05               SOT-89           1    Rg                           Voltage Regulator    
+ 8MHz                XTLT_2           1    XM1                                               
+ AO3416              SOT23_3          1    M1                           P-Channel MESFET     
+ Header 3            HDR1X3           2    P1, P2                       Header, 3-Pin        
+ Header2             COMM HEADER 2    1    PWR                          Header, 2-Pin        
+ programmer header   HEADER_4_JMP     1    pr                           Header, 4-Pin        
+ Relay-DPDT          RELAY-DPDT-1     1    RL                           Dual-Pole Dual-Throw Relay 
+ RYS1838T            RYS1838T         1    *1                                                
+ STM8S003F3          TSSOP20_L        1    u                                                 
+ switch_mini         switch_mini_smd    2    push_but, uC_Rst                                  
